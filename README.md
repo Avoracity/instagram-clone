@@ -55,6 +55,12 @@ npm run dev
 
 You should be good to go!
 
+# Routes
+localhost:8000/register
+localhost:8000/login
+localhost:8000/dashboard
+
+
 # Application Images
 
 <img width="1436" src="https://user-images.githubusercontent.com/108229029/222710711-fe1dc595-b7c5-4ab6-8783-2a1753cd4879.png">
